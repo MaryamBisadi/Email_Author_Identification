@@ -18,3 +18,4 @@ The first plot shows the accuracy and the second one training time based on feat
 
 ![svm-accuracy-selectpercentile](https://user-images.githubusercontent.com/39537957/40526997-d0686a56-5f9e-11e8-82fa-53437dbe0dc8.png)
 
+![svm-trainintime-selectpercentile](https://user-images.githubusercontent.com/39537957/40530047-28dbb2ee-5fac-11e8-9c6d-7c41c641c07b.png)
