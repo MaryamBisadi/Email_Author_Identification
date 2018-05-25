@@ -12,5 +12,9 @@ training time: 1.306 s
 accuracy: 0.9732650739476678
 
 ## SVM
+Accuracy and training time of classification of emails depend on parameters that have bben used for SVM. To have better understanding of parametes affects on accuracy and training time the following plots have been genertated.
+
+The first plot shows the accuracy and the second one training time based on feature selection percentile.
+
 ![svm-accuracy-selectpercentile](https://user-images.githubusercontent.com/39537957/40526997-d0686a56-5f9e-11e8-82fa-53437dbe0dc8.png)
 
