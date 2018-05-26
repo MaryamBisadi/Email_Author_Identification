@@ -28,7 +28,8 @@ accuracy: 0.990
 
 ### Comparison
 
-|                     | __Navie Bayes__ |  ___SVM___ |__Decision Tree__ |
+|                     | __Navie Bayes__ |  __SVM____ |__Decision Tree__ |
 |---------------------|-----------------|------------|------------------|
-|__Accuracy (%)__     |        97       |     99     |         99       |
-|__Training Time (s)__|       1.441     |   120.161  |        48.47     |
+|__Accuracy (%)__     |      97.32      |    99.08   |       99.26      |
+|__Training Time (s)__|      1.26       |   123.52   |       38.27      |
+|__Testing Time  (s)__|      0.12       |   11.92    |        0.05      |
