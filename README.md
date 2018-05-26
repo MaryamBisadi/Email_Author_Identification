@@ -7,9 +7,9 @@ The data used for this project has been downloaded from https://github.com/udaci
 
 Each unique word is considered as a feature. The relative simplicity of the Naive Baye and the independent features assumption  make it a strong performer for classifying texts.
 
-training time: 1.306 s
+training time: 1.26 s
 
-accuracy: 0.973
+accuracy: 0.9732
 
 ## SVM
 Accuracy and training time of classification of emails depend on parameters that have been used for SVM. To have better understanding of parametes affects on accuracy and training time the following plots have been genertated.
@@ -22,9 +22,9 @@ The first plot shows the accuracy and the second one training time based on feat
 
 ## Decision Tree
 The following accuracy and traing time of are generated with default min_sample_split which is 2 and 10% SelectPercentile
-training time: 48.47 s
+training time: 38.27 s
 
-accuracy: 0.990
+accuracy: 0.9926
 
 ### Comparison
 
