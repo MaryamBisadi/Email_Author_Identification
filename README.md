@@ -21,7 +21,7 @@ The first plot shows the accuracy and the second one training time based on feat
 ![svm-trainintime-selectpercentile](https://user-images.githubusercontent.com/39537957/40530047-28dbb2ee-5fac-11e8-9c6d-7c41c641c07b.png)
 
 ## Decision Tree
-The following accuracy and traing time of are generated with default min_sample_split which is 2 and 10% SelectPercentile
+The following accuracy and traing time are generated with default min_sample_split (which is 2) and 10% of features (SelectPercentile)
 training time: 38.27 s
 
 accuracy: 0.9926
