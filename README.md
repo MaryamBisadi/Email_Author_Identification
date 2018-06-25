@@ -5,7 +5,7 @@ The data used for this project has been downloaded from https://github.com/udaci
 
 ## Naive Bayes
 
-Each unique word is considered as a feature. The relative simplicity of the Naive Baye and the independent features assumption  make it a strong performer for classifying texts.
+Each unique word is considered as a feature and authors are labels. The relative simplicity of the Naive Baye and the independent features assumption  make it a strong performer for classifying texts.
 
 training time: 1.26 s
 
